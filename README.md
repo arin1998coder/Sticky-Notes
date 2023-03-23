@@ -32,8 +32,11 @@ Double-click on the note you want to delete.
 Technologies Used
 
 JavaScript
+
 HTML
+
 CSS
+
 Demo
 Check out a demo of the app https://arin1998coder.github.io/Sticky-Notes/
 
