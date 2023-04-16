@@ -4,21 +4,24 @@ Sticky Note App
 
 A simple note-taking app that allows you to create and delete notes, and saves them in a random color.
 
-Features
+#Features
 
 Create new notes
+
 Double-click on existing notes to delete them
+
 Notes are saved in a random color
+
 Zoom in and out of notes
 
-Getting Started
+#Getting Started
 
 To get started with this app, follow these steps:
 Clone the repository to your local machine.
 Open the index.html file in your browser.
 Start creating notes!
 
-Usage
+#Usage
 
 To create a new note:
 Click the "Create Note" button.
