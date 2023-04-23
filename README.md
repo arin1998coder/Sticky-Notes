@@ -1,10 +1,10 @@
-# Sticky-Notes
+# Sticky-Notes - https://arin1998coder.github.io/Sticky-Notes/
 
 Sticky Note App
 
 A simple note-taking app that allows you to create and delete notes, and saves them in a random color.
 
-#Features
+# Features
 
 Create new notes
 
@@ -21,7 +21,7 @@ Clone the repository to your local machine.
 Open the index.html file in your browser.
 Start creating notes!
 
-#Usage
+# Usage
 
 To create a new note:
 Click the "Create Note" button.
@@ -32,7 +32,7 @@ To delete a note:
 
 Double-click on the note you want to delete.
 
-Technologies Used
+# Technologies Used
 
 JavaScript
 
@@ -40,6 +40,4 @@ HTML
 
 CSS
 
-Demo
-Check out a demo of the app https://arin1998coder.github.io/Sticky-Notes/
 
